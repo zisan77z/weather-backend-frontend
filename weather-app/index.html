@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Font Awesome for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+ <!-- if you want to dark modd add this (dark-mode) class to body elm -->
+<body class="">
+  
+  <header>
+    <div class="logo">
+      <i class="fas fa-cloud-sun"></i>
+      <h1>WeatherDash</h1>
+    </div>
+    <nav class="btns">
+      <button id="darkModeToggle">
+        <i class="fas fa-moon"></i> Dark Mode
+      </button>
+       <button id="unitToggle">°C / °F</button>
+    </nav>
+  </header>
+
+
+  <main>
+    <!-- Search Section -->
+    <section id="search-section" class="card">
+      <input type="text" id="cityInput" placeholder="Enter city name...">
+      <button id="searchBtn"><i class="fas fa-search"></i> Search</button>
+    </section>
+
+    <!-- Favorite Cities -->
+    <section id="favorites-section" class="card">
+      <h3><i class="fas fa-star"></i> Favorites</h3>
+      <ul id="favoritesList">
+
+      </ul>
+    </section>
+
+    <!-- Weather Card -->
+    <section id="weather-section" class="card">
+      <div id="weatherCard">
+        <h2 id="cityName">City Name</h2>
+        <p id="temperature"><i class="fas fa-temperature-high"></i> -- °C</p>
+        <p id="weatherDesc"><i class="fas fa-cloud"></i> --</p>
+        <p id="humidity"><i class="fas fa-tint"></i> Humidity: --%</p>
+        <p id="wind"><i class="fas fa-wind"></i> Wind: -- km/h</p>
+        <button id="addFavoriteBtn"><i class="fas fa-plus"></i> Add to Favorites</button>
+      </div>
+    </section>
+    <!-- -------------------- FORECAST SECTIONS -------------------- -->
+
+    <!-- Hourly Forecast Section -->
+    <section id="hourly-forecast" class="forecast-section card">
+      <h2 class="section-title">Hourly Forecast</h2>
+      <div class="hourly-cards">
+       
+      </div>
+    </section>
+
+
+    <!-- 7-Day Forecast Section -->
+    <section id="weekly-forecast" class="forecast-section card">
+      <h2 class="section-title">7-Day Forecast</h2>
+      <div class="weekly-cards">
+       
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Weather Dashboard</p>
+  </footer>
+
+  <script type="module" src="main.js"></script>
+</body>
+
+</html>

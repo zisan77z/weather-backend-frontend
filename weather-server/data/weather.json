@@ -1,0 +1,4474 @@
+[
+  {
+    "current": {
+      "city": "London",
+      "temp": 27,
+      "humidity": 45,
+      "wind": 4,
+      "description": "Cloudy",
+      "icon": "02d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 28,
+        "icon": "10d"
+      },
+      {
+        "time": "4:00",
+        "temp": 27,
+        "icon": "09d"
+      },
+      {
+        "time": "8:00",
+        "temp": 26,
+        "icon": "02d"
+      },
+      {
+        "time": "12:00",
+        "temp": 26,
+        "icon": "04d"
+      },
+      {
+        "time": "16:00",
+        "temp": 27,
+        "icon": "11d"
+      },
+      {
+        "time": "20:00",
+        "temp": 28,
+        "icon": "13d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 24,
+        "temp_max": 27,
+        "icon": "11d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 24,
+        "temp_max": 31,
+        "icon": "50d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 26,
+        "temp_max": 28,
+        "icon": "03d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 24,
+        "temp_max": 27,
+        "icon": "04d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 27,
+        "temp_max": 28,
+        "icon": "10d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 23,
+        "temp_max": 29,
+        "icon": "10d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 25,
+        "temp_max": 28,
+        "icon": "10d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "New York",
+      "temp": 29,
+      "humidity": 45,
+      "wind": 8,
+      "description": "Partly Cloudy",
+      "icon": "50d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 29,
+        "icon": "13d"
+      },
+      {
+        "time": "4:00",
+        "temp": 30,
+        "icon": "50d"
+      },
+      {
+        "time": "8:00",
+        "temp": 28,
+        "icon": "11d"
+      },
+      {
+        "time": "12:00",
+        "temp": 29,
+        "icon": "09d"
+      },
+      {
+        "time": "16:00",
+        "temp": 28,
+        "icon": "13d"
+      },
+      {
+        "time": "20:00",
+        "temp": 28,
+        "icon": "13d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 29,
+        "temp_max": 29,
+        "icon": "10d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 29,
+        "temp_max": 32,
+        "icon": "10d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 29,
+        "temp_max": 31,
+        "icon": "04d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 27,
+        "temp_max": 32,
+        "icon": "11d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 29,
+        "temp_max": 30,
+        "icon": "03d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 26,
+        "temp_max": 31,
+        "icon": "03d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 25,
+        "temp_max": 29,
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Tokyo",
+      "temp": 27,
+      "humidity": 70,
+      "wind": 12,
+      "description": "Partly Cloudy",
+      "icon": "10d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 28,
+        "icon": "04d"
+      },
+      {
+        "time": "4:00",
+        "temp": 26,
+        "icon": "04d"
+      },
+      {
+        "time": "8:00",
+        "temp": 28,
+        "icon": "03d"
+      },
+      {
+        "time": "12:00",
+        "temp": 28,
+        "icon": "01d"
+      },
+      {
+        "time": "16:00",
+        "temp": 28,
+        "icon": "03d"
+      },
+      {
+        "time": "20:00",
+        "temp": 26,
+        "icon": "03d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 24,
+        "temp_max": 28,
+        "icon": "10d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 23,
+        "temp_max": 27,
+        "icon": "11d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 26,
+        "temp_max": 28,
+        "icon": "04d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 25,
+        "temp_max": 31,
+        "icon": "11d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 26,
+        "temp_max": 31,
+        "icon": "01d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 27,
+        "temp_max": 27,
+        "icon": "03d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 25,
+        "temp_max": 28,
+        "icon": "11d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Paris",
+      "temp": 20,
+      "humidity": 70,
+      "wind": 2,
+      "description": "Partly Cloudy",
+      "icon": "11d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 19,
+        "icon": "50d"
+      },
+      {
+        "time": "4:00",
+        "temp": 19,
+        "icon": "10d"
+      },
+      {
+        "time": "8:00",
+        "temp": 19,
+        "icon": "09d"
+      },
+      {
+        "time": "12:00",
+        "temp": 21,
+        "icon": "10d"
+      },
+      {
+        "time": "16:00",
+        "temp": 21,
+        "icon": "04d"
+      },
+      {
+        "time": "20:00",
+        "temp": 21,
+        "icon": "09d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 17,
+        "temp_max": 24,
+        "icon": "13d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 17,
+        "temp_max": 22,
+        "icon": "04d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 19,
+        "temp_max": 24,
+        "icon": "01d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 17,
+        "temp_max": 22,
+        "icon": "09d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 19,
+        "temp_max": 20,
+        "icon": "13d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 17,
+        "temp_max": 20,
+        "icon": "01d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 17,
+        "temp_max": 22,
+        "icon": "02d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Mumbai",
+      "temp": 16,
+      "humidity": 60,
+      "wind": 10,
+      "description": "Sunny",
+      "icon": "50d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 17,
+        "icon": "02d"
+      },
+      {
+        "time": "4:00",
+        "temp": 17,
+        "icon": "11d"
+      },
+      {
+        "time": "8:00",
+        "temp": 15,
+        "icon": "13d"
+      },
+      {
+        "time": "12:00",
+        "temp": 17,
+        "icon": "50d"
+      },
+      {
+        "time": "16:00",
+        "temp": 16,
+        "icon": "03d"
+      },
+      {
+        "time": "20:00",
+        "temp": 16,
+        "icon": "01d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 13,
+        "temp_max": 18,
+        "icon": "03d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 14,
+        "temp_max": 20,
+        "icon": "09d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 15,
+        "temp_max": 16,
+        "icon": "04d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 15,
+        "temp_max": 19,
+        "icon": "50d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 13,
+        "temp_max": 16,
+        "icon": "10d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 13,
+        "temp_max": 16,
+        "icon": "01d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 13,
+        "temp_max": 20,
+        "icon": "02d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Los Angeles",
+      "temp": 26,
+      "humidity": 70,
+      "wind": 4,
+      "description": "Humid",
+      "icon": "50d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 27,
+        "icon": "50d"
+      },
+      {
+        "time": "4:00",
+        "temp": 26,
+        "icon": "50d"
+      },
+      {
+        "time": "8:00",
+        "temp": 26,
+        "icon": "10d"
+      },
+      {
+        "time": "12:00",
+        "temp": 26,
+        "icon": "02d"
+      },
+      {
+        "time": "16:00",
+        "temp": 26,
+        "icon": "09d"
+      },
+      {
+        "time": "20:00",
+        "temp": 27,
+        "icon": "03d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 24,
+        "temp_max": 27,
+        "icon": "13d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 26,
+        "temp_max": 29,
+        "icon": "13d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 26,
+        "temp_max": 27,
+        "icon": "02d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 22,
+        "temp_max": 30,
+        "icon": "11d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 24,
+        "temp_max": 27,
+        "icon": "13d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 26,
+        "temp_max": 30,
+        "icon": "04d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 24,
+        "temp_max": 27,
+        "icon": "11d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Sydney",
+      "temp": 11,
+      "humidity": 25,
+      "wind": 14,
+      "description": "Partly Cloudy",
+      "icon": "13d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 11,
+        "icon": "09d"
+      },
+      {
+        "time": "4:00",
+        "temp": 11,
+        "icon": "02d"
+      },
+      {
+        "time": "8:00",
+        "temp": 12,
+        "icon": "13d"
+      },
+      {
+        "time": "12:00",
+        "temp": 12,
+        "icon": "50d"
+      },
+      {
+        "time": "16:00",
+        "temp": 10,
+        "icon": "09d"
+      },
+      {
+        "time": "20:00",
+        "temp": 12,
+        "icon": "02d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 8,
+        "temp_max": 15,
+        "icon": "03d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 7,
+        "temp_max": 15,
+        "icon": "50d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 8,
+        "temp_max": 14,
+        "icon": "03d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 7,
+        "temp_max": 15,
+        "icon": "50d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 9,
+        "temp_max": 13,
+        "icon": "02d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 10,
+        "temp_max": 11,
+        "icon": "09d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 9,
+        "temp_max": 13,
+        "icon": "09d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Berlin",
+      "temp": 18,
+      "humidity": 50,
+      "wind": 10,
+      "description": "Sunny",
+      "icon": "13d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 18,
+        "icon": "02d"
+      },
+      {
+        "time": "4:00",
+        "temp": 18,
+        "icon": "13d"
+      },
+      {
+        "time": "8:00",
+        "temp": 17,
+        "icon": "02d"
+      },
+      {
+        "time": "12:00",
+        "temp": 18,
+        "icon": "09d"
+      },
+      {
+        "time": "16:00",
+        "temp": 19,
+        "icon": "03d"
+      },
+      {
+        "time": "20:00",
+        "temp": 18,
+        "icon": "03d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 14,
+        "temp_max": 22,
+        "icon": "13d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 17,
+        "temp_max": 22,
+        "icon": "13d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 14,
+        "temp_max": 18,
+        "icon": "11d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 17,
+        "temp_max": 21,
+        "icon": "01d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 16,
+        "temp_max": 20,
+        "icon": "10d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 17,
+        "temp_max": 19,
+        "icon": "50d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 16,
+        "temp_max": 22,
+        "icon": "50d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Moscow",
+      "temp": 11,
+      "humidity": 34,
+      "wind": 3,
+      "description": "Partly Cloudy",
+      "icon": "50d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 12,
+        "icon": "13d"
+      },
+      {
+        "time": "4:00",
+        "temp": 12,
+        "icon": "10d"
+      },
+      {
+        "time": "8:00",
+        "temp": 12,
+        "icon": "03d"
+      },
+      {
+        "time": "12:00",
+        "temp": 12,
+        "icon": "01d"
+      },
+      {
+        "time": "16:00",
+        "temp": 11,
+        "icon": "50d"
+      },
+      {
+        "time": "20:00",
+        "temp": 12,
+        "icon": "04d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 7,
+        "temp_max": 15,
+        "icon": "50d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 8,
+        "temp_max": 11,
+        "icon": "50d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 7,
+        "temp_max": 14,
+        "icon": "09d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 7,
+        "temp_max": 15,
+        "icon": "13d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 10,
+        "temp_max": 11,
+        "icon": "01d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 9,
+        "temp_max": 15,
+        "icon": "11d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 10,
+        "temp_max": 13,
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Beijing",
+      "temp": 10,
+      "humidity": 36,
+      "wind": 11,
+      "description": "Partly Cloudy",
+      "icon": "10d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 10,
+        "icon": "09d"
+      },
+      {
+        "time": "4:00",
+        "temp": 9,
+        "icon": "09d"
+      },
+      {
+        "time": "8:00",
+        "temp": 10,
+        "icon": "09d"
+      },
+      {
+        "time": "12:00",
+        "temp": 10,
+        "icon": "13d"
+      },
+      {
+        "time": "16:00",
+        "temp": 9,
+        "icon": "50d"
+      },
+      {
+        "time": "20:00",
+        "temp": 9,
+        "icon": "09d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 9,
+        "temp_max": 11,
+        "icon": "02d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 6,
+        "temp_max": 10,
+        "icon": "50d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 8,
+        "temp_max": 14,
+        "icon": "13d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 10,
+        "temp_max": 13,
+        "icon": "10d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 7,
+        "temp_max": 11,
+        "icon": "50d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 10,
+        "temp_max": 12,
+        "icon": "09d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 6,
+        "temp_max": 11,
+        "icon": "03d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Dubai",
+      "temp": 12,
+      "humidity": 51,
+      "wind": 5,
+      "description": "Partly Cloudy",
+      "icon": "03d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 12,
+        "icon": "50d"
+      },
+      {
+        "time": "4:00",
+        "temp": 13,
+        "icon": "04d"
+      },
+      {
+        "time": "8:00",
+        "temp": 13,
+        "icon": "04d"
+      },
+      {
+        "time": "12:00",
+        "temp": 12,
+        "icon": "01d"
+      },
+      {
+        "time": "16:00",
+        "temp": 13,
+        "icon": "10d"
+      },
+      {
+        "time": "20:00",
+        "temp": 12,
+        "icon": "10d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 12,
+        "temp_max": 16,
+        "icon": "02d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 12,
+        "temp_max": 14,
+        "icon": "02d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 9,
+        "temp_max": 12,
+        "icon": "03d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 11,
+        "temp_max": 16,
+        "icon": "09d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 8,
+        "temp_max": 16,
+        "icon": "13d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 10,
+        "temp_max": 15,
+        "icon": "10d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 10,
+        "temp_max": 13,
+        "icon": "10d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Singapore",
+      "temp": 14,
+      "humidity": 41,
+      "wind": 14,
+      "description": "Sunny",
+      "icon": "04d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 14,
+        "icon": "09d"
+      },
+      {
+        "time": "4:00",
+        "temp": 14,
+        "icon": "13d"
+      },
+      {
+        "time": "8:00",
+        "temp": 14,
+        "icon": "04d"
+      },
+      {
+        "time": "12:00",
+        "temp": 15,
+        "icon": "01d"
+      },
+      {
+        "time": "16:00",
+        "temp": 14,
+        "icon": "10d"
+      },
+      {
+        "time": "20:00",
+        "temp": 13,
+        "icon": "11d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 10,
+        "temp_max": 15,
+        "icon": "09d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 11,
+        "temp_max": 16,
+        "icon": "04d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 10,
+        "temp_max": 17,
+        "icon": "09d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 10,
+        "temp_max": 16,
+        "icon": "50d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 11,
+        "temp_max": 17,
+        "icon": "50d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 14,
+        "temp_max": 14,
+        "icon": "03d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 12,
+        "temp_max": 17,
+        "icon": "11d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Rome",
+      "temp": 14,
+      "humidity": 57,
+      "wind": 4,
+      "description": "Sunny",
+      "icon": "04d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 13,
+        "icon": "10d"
+      },
+      {
+        "time": "4:00",
+        "temp": 14,
+        "icon": "03d"
+      },
+      {
+        "time": "8:00",
+        "temp": 15,
+        "icon": "01d"
+      },
+      {
+        "time": "12:00",
+        "temp": 15,
+        "icon": "03d"
+      },
+      {
+        "time": "16:00",
+        "temp": 13,
+        "icon": "50d"
+      },
+      {
+        "time": "20:00",
+        "temp": 14,
+        "icon": "01d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 14,
+        "temp_max": 15,
+        "icon": "13d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 11,
+        "temp_max": 17,
+        "icon": "13d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 13,
+        "temp_max": 16,
+        "icon": "01d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 12,
+        "temp_max": 18,
+        "icon": "13d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 14,
+        "temp_max": 17,
+        "icon": "13d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 13,
+        "temp_max": 15,
+        "icon": "50d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 11,
+        "temp_max": 14,
+        "icon": "50d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Toronto",
+      "temp": 13,
+      "humidity": 24,
+      "wind": 4,
+      "description": "Sunny",
+      "icon": "11d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 13,
+        "icon": "13d"
+      },
+      {
+        "time": "4:00",
+        "temp": 14,
+        "icon": "09d"
+      },
+      {
+        "time": "8:00",
+        "temp": 14,
+        "icon": "13d"
+      },
+      {
+        "time": "12:00",
+        "temp": 13,
+        "icon": "50d"
+      },
+      {
+        "time": "16:00",
+        "temp": 13,
+        "icon": "02d"
+      },
+      {
+        "time": "20:00",
+        "temp": 12,
+        "icon": "02d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 12,
+        "temp_max": 16,
+        "icon": "10d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 9,
+        "temp_max": 16,
+        "icon": "09d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 11,
+        "temp_max": 16,
+        "icon": "03d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 10,
+        "temp_max": 16,
+        "icon": "01d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 10,
+        "temp_max": 15,
+        "icon": "10d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 12,
+        "temp_max": 14,
+        "icon": "03d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 13,
+        "temp_max": 17,
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Chicago",
+      "temp": 20,
+      "humidity": 71,
+      "wind": 9,
+      "description": "Sunny",
+      "icon": "02d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 19,
+        "icon": "03d"
+      },
+      {
+        "time": "4:00",
+        "temp": 20,
+        "icon": "01d"
+      },
+      {
+        "time": "8:00",
+        "temp": 21,
+        "icon": "10d"
+      },
+      {
+        "time": "12:00",
+        "temp": 20,
+        "icon": "01d"
+      },
+      {
+        "time": "16:00",
+        "temp": 20,
+        "icon": "01d"
+      },
+      {
+        "time": "20:00",
+        "temp": 19,
+        "icon": "02d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 16,
+        "temp_max": 23,
+        "icon": "09d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 18,
+        "temp_max": 24,
+        "icon": "02d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 18,
+        "temp_max": 24,
+        "icon": "10d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 16,
+        "temp_max": 23,
+        "icon": "11d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 20,
+        "temp_max": 24,
+        "icon": "03d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 20,
+        "temp_max": 20,
+        "icon": "11d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 18,
+        "temp_max": 24,
+        "icon": "04d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Barcelona",
+      "temp": 28,
+      "humidity": 59,
+      "wind": 14,
+      "description": "Cloudy",
+      "icon": "13d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 27,
+        "icon": "50d"
+      },
+      {
+        "time": "4:00",
+        "temp": 28,
+        "icon": "10d"
+      },
+      {
+        "time": "8:00",
+        "temp": 28,
+        "icon": "02d"
+      },
+      {
+        "time": "12:00",
+        "temp": 27,
+        "icon": "02d"
+      },
+      {
+        "time": "16:00",
+        "temp": 27,
+        "icon": "09d"
+      },
+      {
+        "time": "20:00",
+        "temp": 29,
+        "icon": "03d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 26,
+        "temp_max": 28,
+        "icon": "11d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 26,
+        "temp_max": 32,
+        "icon": "02d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 26,
+        "temp_max": 30,
+        "icon": "50d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 26,
+        "temp_max": 29,
+        "icon": "01d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 25,
+        "temp_max": 32,
+        "icon": "10d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 24,
+        "temp_max": 32,
+        "icon": "13d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 27,
+        "temp_max": 30,
+        "icon": "03d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Seoul",
+      "temp": 22,
+      "humidity": 62,
+      "wind": 15,
+      "description": "Cloudy",
+      "icon": "09d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 23,
+        "icon": "04d"
+      },
+      {
+        "time": "4:00",
+        "temp": 21,
+        "icon": "02d"
+      },
+      {
+        "time": "8:00",
+        "temp": 23,
+        "icon": "50d"
+      },
+      {
+        "time": "12:00",
+        "temp": 23,
+        "icon": "09d"
+      },
+      {
+        "time": "16:00",
+        "temp": 21,
+        "icon": "10d"
+      },
+      {
+        "time": "20:00",
+        "temp": 22,
+        "icon": "02d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 18,
+        "temp_max": 25,
+        "icon": "10d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 20,
+        "temp_max": 25,
+        "icon": "02d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 20,
+        "temp_max": 22,
+        "icon": "01d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 21,
+        "temp_max": 26,
+        "icon": "09d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 18,
+        "temp_max": 25,
+        "icon": "03d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 19,
+        "temp_max": 24,
+        "icon": "50d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 20,
+        "temp_max": 25,
+        "icon": "11d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Bangkok",
+      "temp": 11,
+      "humidity": 28,
+      "wind": 6,
+      "description": "Humid",
+      "icon": "11d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 11,
+        "icon": "01d"
+      },
+      {
+        "time": "4:00",
+        "temp": 12,
+        "icon": "04d"
+      },
+      {
+        "time": "8:00",
+        "temp": 11,
+        "icon": "50d"
+      },
+      {
+        "time": "12:00",
+        "temp": 11,
+        "icon": "10d"
+      },
+      {
+        "time": "16:00",
+        "temp": 12,
+        "icon": "10d"
+      },
+      {
+        "time": "20:00",
+        "temp": 10,
+        "icon": "03d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 11,
+        "temp_max": 15,
+        "icon": "02d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 7,
+        "temp_max": 15,
+        "icon": "09d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 11,
+        "temp_max": 13,
+        "icon": "50d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 8,
+        "temp_max": 11,
+        "icon": "10d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 7,
+        "temp_max": 13,
+        "icon": "02d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 7,
+        "temp_max": 13,
+        "icon": "04d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 11,
+        "temp_max": 14,
+        "icon": "10d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Istanbul",
+      "temp": 26,
+      "humidity": 22,
+      "wind": 10,
+      "description": "Cloudy",
+      "icon": "11d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 25,
+        "icon": "13d"
+      },
+      {
+        "time": "4:00",
+        "temp": 27,
+        "icon": "11d"
+      },
+      {
+        "time": "8:00",
+        "temp": 26,
+        "icon": "11d"
+      },
+      {
+        "time": "12:00",
+        "temp": 25,
+        "icon": "10d"
+      },
+      {
+        "time": "16:00",
+        "temp": 27,
+        "icon": "04d"
+      },
+      {
+        "time": "20:00",
+        "temp": 26,
+        "icon": "10d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 26,
+        "temp_max": 28,
+        "icon": "13d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 22,
+        "temp_max": 29,
+        "icon": "13d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 24,
+        "temp_max": 27,
+        "icon": "10d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 22,
+        "temp_max": 27,
+        "icon": "01d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 26,
+        "temp_max": 28,
+        "icon": "02d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 24,
+        "temp_max": 29,
+        "icon": "03d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 22,
+        "temp_max": 26,
+        "icon": "11d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Cairo",
+      "temp": 27,
+      "humidity": 61,
+      "wind": 13,
+      "description": "Sunny",
+      "icon": "04d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 28,
+        "icon": "03d"
+      },
+      {
+        "time": "4:00",
+        "temp": 26,
+        "icon": "11d"
+      },
+      {
+        "time": "8:00",
+        "temp": 26,
+        "icon": "11d"
+      },
+      {
+        "time": "12:00",
+        "temp": 28,
+        "icon": "04d"
+      },
+      {
+        "time": "16:00",
+        "temp": 27,
+        "icon": "50d"
+      },
+      {
+        "time": "20:00",
+        "temp": 26,
+        "icon": "02d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 27,
+        "temp_max": 27,
+        "icon": "03d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 26,
+        "temp_max": 29,
+        "icon": "50d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 26,
+        "temp_max": 27,
+        "icon": "01d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 24,
+        "temp_max": 30,
+        "icon": "02d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 25,
+        "temp_max": 28,
+        "icon": "11d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 25,
+        "temp_max": 30,
+        "icon": "01d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 23,
+        "temp_max": 31,
+        "icon": "04d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Madrid",
+      "temp": 29,
+      "humidity": 23,
+      "wind": 5,
+      "description": "Cloudy",
+      "icon": "10d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 28,
+        "icon": "03d"
+      },
+      {
+        "time": "4:00",
+        "temp": 28,
+        "icon": "04d"
+      },
+      {
+        "time": "8:00",
+        "temp": 28,
+        "icon": "13d"
+      },
+      {
+        "time": "12:00",
+        "temp": 29,
+        "icon": "10d"
+      },
+      {
+        "time": "16:00",
+        "temp": 29,
+        "icon": "04d"
+      },
+      {
+        "time": "20:00",
+        "temp": 29,
+        "icon": "09d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 27,
+        "temp_max": 30,
+        "icon": "01d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 27,
+        "temp_max": 32,
+        "icon": "13d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 27,
+        "temp_max": 31,
+        "icon": "10d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 25,
+        "temp_max": 31,
+        "icon": "09d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 28,
+        "temp_max": 31,
+        "icon": "01d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 27,
+        "temp_max": 31,
+        "icon": "13d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 27,
+        "temp_max": 30,
+        "icon": "09d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Mexico City",
+      "temp": 14,
+      "humidity": 28,
+      "wind": 15,
+      "description": "Partly Cloudy",
+      "icon": "13d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 13,
+        "icon": "04d"
+      },
+      {
+        "time": "4:00",
+        "temp": 14,
+        "icon": "09d"
+      },
+      {
+        "time": "8:00",
+        "temp": 15,
+        "icon": "02d"
+      },
+      {
+        "time": "12:00",
+        "temp": 14,
+        "icon": "03d"
+      },
+      {
+        "time": "16:00",
+        "temp": 14,
+        "icon": "01d"
+      },
+      {
+        "time": "20:00",
+        "temp": 14,
+        "icon": "02d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 13,
+        "temp_max": 17,
+        "icon": "13d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 13,
+        "temp_max": 16,
+        "icon": "02d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 10,
+        "temp_max": 17,
+        "icon": "09d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 13,
+        "temp_max": 15,
+        "icon": "13d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 12,
+        "temp_max": 18,
+        "icon": "10d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 11,
+        "temp_max": 16,
+        "icon": "04d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 11,
+        "temp_max": 17,
+        "icon": "50d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Jakarta",
+      "temp": 27,
+      "humidity": 76,
+      "wind": 7,
+      "description": "Rainy",
+      "icon": "09d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 27,
+        "icon": "09d"
+      },
+      {
+        "time": "4:00",
+        "temp": 26,
+        "icon": "03d"
+      },
+      {
+        "time": "8:00",
+        "temp": 28,
+        "icon": "11d"
+      },
+      {
+        "time": "12:00",
+        "temp": 27,
+        "icon": "02d"
+      },
+      {
+        "time": "16:00",
+        "temp": 28,
+        "icon": "50d"
+      },
+      {
+        "time": "20:00",
+        "temp": 26,
+        "icon": "04d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 26,
+        "temp_max": 29,
+        "icon": "11d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 23,
+        "temp_max": 30,
+        "icon": "11d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 25,
+        "temp_max": 29,
+        "icon": "11d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 27,
+        "temp_max": 29,
+        "icon": "10d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 27,
+        "temp_max": 31,
+        "icon": "50d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 25,
+        "temp_max": 27,
+        "icon": "50d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 24,
+        "temp_max": 30,
+        "icon": "11d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Hong Kong",
+      "temp": 27,
+      "humidity": 28,
+      "wind": 13,
+      "description": "Partly Cloudy",
+      "icon": "02d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 28,
+        "icon": "50d"
+      },
+      {
+        "time": "4:00",
+        "temp": 27,
+        "icon": "01d"
+      },
+      {
+        "time": "8:00",
+        "temp": 27,
+        "icon": "02d"
+      },
+      {
+        "time": "12:00",
+        "temp": 28,
+        "icon": "09d"
+      },
+      {
+        "time": "16:00",
+        "temp": 27,
+        "icon": "01d"
+      },
+      {
+        "time": "20:00",
+        "temp": 26,
+        "icon": "10d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 27,
+        "temp_max": 27,
+        "icon": "03d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 26,
+        "temp_max": 28,
+        "icon": "13d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 25,
+        "temp_max": 27,
+        "icon": "04d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 26,
+        "temp_max": 29,
+        "icon": "02d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 23,
+        "temp_max": 30,
+        "icon": "50d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 27,
+        "temp_max": 31,
+        "icon": "04d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 27,
+        "temp_max": 29,
+        "icon": "50d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Lagos",
+      "temp": 24,
+      "humidity": 79,
+      "wind": 16,
+      "description": "Rainy",
+      "icon": "50d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 23,
+        "icon": "01d"
+      },
+      {
+        "time": "4:00",
+        "temp": 25,
+        "icon": "50d"
+      },
+      {
+        "time": "8:00",
+        "temp": 24,
+        "icon": "11d"
+      },
+      {
+        "time": "12:00",
+        "temp": 24,
+        "icon": "50d"
+      },
+      {
+        "time": "16:00",
+        "temp": 24,
+        "icon": "50d"
+      },
+      {
+        "time": "20:00",
+        "temp": 23,
+        "icon": "03d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 23,
+        "temp_max": 28,
+        "icon": "11d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 22,
+        "temp_max": 25,
+        "icon": "03d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 21,
+        "temp_max": 28,
+        "icon": "10d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 24,
+        "temp_max": 26,
+        "icon": "13d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 22,
+        "temp_max": 28,
+        "icon": "09d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 22,
+        "temp_max": 27,
+        "icon": "11d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 24,
+        "temp_max": 28,
+        "icon": "13d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Buenos Aires",
+      "temp": 13,
+      "humidity": 39,
+      "wind": 11,
+      "description": "Rainy",
+      "icon": "02d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 14,
+        "icon": "11d"
+      },
+      {
+        "time": "4:00",
+        "temp": 12,
+        "icon": "11d"
+      },
+      {
+        "time": "8:00",
+        "temp": 14,
+        "icon": "50d"
+      },
+      {
+        "time": "12:00",
+        "temp": 14,
+        "icon": "03d"
+      },
+      {
+        "time": "16:00",
+        "temp": 12,
+        "icon": "13d"
+      },
+      {
+        "time": "20:00",
+        "temp": 14,
+        "icon": "09d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 10,
+        "temp_max": 17,
+        "icon": "10d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 13,
+        "temp_max": 14,
+        "icon": "10d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 9,
+        "temp_max": 13,
+        "icon": "50d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 11,
+        "temp_max": 13,
+        "icon": "03d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 11,
+        "temp_max": 13,
+        "icon": "01d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 12,
+        "temp_max": 15,
+        "icon": "09d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 10,
+        "temp_max": 16,
+        "icon": "09d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Rio de Janeiro",
+      "temp": 27,
+      "humidity": 53,
+      "wind": 13,
+      "description": "Rainy",
+      "icon": "02d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 26,
+        "icon": "09d"
+      },
+      {
+        "time": "4:00",
+        "temp": 27,
+        "icon": "11d"
+      },
+      {
+        "time": "8:00",
+        "temp": 26,
+        "icon": "10d"
+      },
+      {
+        "time": "12:00",
+        "temp": 26,
+        "icon": "09d"
+      },
+      {
+        "time": "16:00",
+        "temp": 26,
+        "icon": "01d"
+      },
+      {
+        "time": "20:00",
+        "temp": 28,
+        "icon": "13d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 27,
+        "temp_max": 27,
+        "icon": "01d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 24,
+        "temp_max": 28,
+        "icon": "10d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 24,
+        "temp_max": 29,
+        "icon": "04d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 23,
+        "temp_max": 28,
+        "icon": "03d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 24,
+        "temp_max": 28,
+        "icon": "09d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 27,
+        "temp_max": 30,
+        "icon": "10d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 23,
+        "temp_max": 30,
+        "icon": "02d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Cape Town",
+      "temp": 28,
+      "humidity": 56,
+      "wind": 10,
+      "description": "Partly Cloudy",
+      "icon": "09d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 27,
+        "icon": "02d"
+      },
+      {
+        "time": "4:00",
+        "temp": 29,
+        "icon": "10d"
+      },
+      {
+        "time": "8:00",
+        "temp": 27,
+        "icon": "04d"
+      },
+      {
+        "time": "12:00",
+        "temp": 29,
+        "icon": "02d"
+      },
+      {
+        "time": "16:00",
+        "temp": 29,
+        "icon": "03d"
+      },
+      {
+        "time": "20:00",
+        "temp": 29,
+        "icon": "11d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 26,
+        "temp_max": 29,
+        "icon": "10d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 28,
+        "temp_max": 29,
+        "icon": "13d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 27,
+        "temp_max": 29,
+        "icon": "04d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 28,
+        "temp_max": 28,
+        "icon": "50d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 28,
+        "temp_max": 32,
+        "icon": "13d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 26,
+        "temp_max": 32,
+        "icon": "50d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 26,
+        "temp_max": 31,
+        "icon": "50d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Lima",
+      "temp": 21,
+      "humidity": 27,
+      "wind": 5,
+      "description": "Cloudy",
+      "icon": "50d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 21,
+        "icon": "10d"
+      },
+      {
+        "time": "4:00",
+        "temp": 21,
+        "icon": "02d"
+      },
+      {
+        "time": "8:00",
+        "temp": 20,
+        "icon": "01d"
+      },
+      {
+        "time": "12:00",
+        "temp": 22,
+        "icon": "04d"
+      },
+      {
+        "time": "16:00",
+        "temp": 20,
+        "icon": "11d"
+      },
+      {
+        "time": "20:00",
+        "temp": 20,
+        "icon": "03d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 20,
+        "temp_max": 22,
+        "icon": "11d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 18,
+        "temp_max": 23,
+        "icon": "10d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 21,
+        "temp_max": 22,
+        "icon": "03d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 19,
+        "temp_max": 22,
+        "icon": "50d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 19,
+        "temp_max": 24,
+        "icon": "50d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 17,
+        "temp_max": 22,
+        "icon": "03d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 17,
+        "temp_max": 23,
+        "icon": "02d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Kuala Lumpur",
+      "temp": 18,
+      "humidity": 72,
+      "wind": 13,
+      "description": "Partly Cloudy",
+      "icon": "11d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 17,
+        "icon": "13d"
+      },
+      {
+        "time": "4:00",
+        "temp": 17,
+        "icon": "02d"
+      },
+      {
+        "time": "8:00",
+        "temp": 17,
+        "icon": "09d"
+      },
+      {
+        "time": "12:00",
+        "temp": 19,
+        "icon": "04d"
+      },
+      {
+        "time": "16:00",
+        "temp": 18,
+        "icon": "02d"
+      },
+      {
+        "time": "20:00",
+        "temp": 17,
+        "icon": "10d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 14,
+        "temp_max": 20,
+        "icon": "11d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 18,
+        "temp_max": 22,
+        "icon": "02d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 15,
+        "temp_max": 20,
+        "icon": "03d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 18,
+        "temp_max": 20,
+        "icon": "02d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 18,
+        "temp_max": 20,
+        "icon": "50d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 15,
+        "temp_max": 19,
+        "icon": "01d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 15,
+        "temp_max": 20,
+        "icon": "10d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Vienna",
+      "temp": 23,
+      "humidity": 43,
+      "wind": 6,
+      "description": "Cloudy",
+      "icon": "01d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 22,
+        "icon": "03d"
+      },
+      {
+        "time": "4:00",
+        "temp": 24,
+        "icon": "02d"
+      },
+      {
+        "time": "8:00",
+        "temp": 24,
+        "icon": "02d"
+      },
+      {
+        "time": "12:00",
+        "temp": 23,
+        "icon": "01d"
+      },
+      {
+        "time": "16:00",
+        "temp": 22,
+        "icon": "02d"
+      },
+      {
+        "time": "20:00",
+        "temp": 22,
+        "icon": "04d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 21,
+        "temp_max": 23,
+        "icon": "50d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 19,
+        "temp_max": 23,
+        "icon": "50d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 21,
+        "temp_max": 26,
+        "icon": "03d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 22,
+        "temp_max": 27,
+        "icon": "10d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 19,
+        "temp_max": 24,
+        "icon": "13d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 23,
+        "temp_max": 24,
+        "icon": "10d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 22,
+        "temp_max": 23,
+        "icon": "09d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Prague",
+      "temp": 20,
+      "humidity": 66,
+      "wind": 2,
+      "description": "Humid",
+      "icon": "09d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 21,
+        "icon": "10d"
+      },
+      {
+        "time": "4:00",
+        "temp": 20,
+        "icon": "04d"
+      },
+      {
+        "time": "8:00",
+        "temp": 19,
+        "icon": "50d"
+      },
+      {
+        "time": "12:00",
+        "temp": 19,
+        "icon": "09d"
+      },
+      {
+        "time": "16:00",
+        "temp": 21,
+        "icon": "01d"
+      },
+      {
+        "time": "20:00",
+        "temp": 20,
+        "icon": "03d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 20,
+        "temp_max": 21,
+        "icon": "02d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 20,
+        "temp_max": 24,
+        "icon": "13d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 19,
+        "temp_max": 21,
+        "icon": "11d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 19,
+        "temp_max": 20,
+        "icon": "04d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 20,
+        "temp_max": 21,
+        "icon": "09d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 18,
+        "temp_max": 20,
+        "icon": "04d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 16,
+        "temp_max": 22,
+        "icon": "02d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Budapest",
+      "temp": 16,
+      "humidity": 42,
+      "wind": 5,
+      "description": "Sunny",
+      "icon": "02d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 16,
+        "icon": "13d"
+      },
+      {
+        "time": "4:00",
+        "temp": 17,
+        "icon": "04d"
+      },
+      {
+        "time": "8:00",
+        "temp": 15,
+        "icon": "09d"
+      },
+      {
+        "time": "12:00",
+        "temp": 15,
+        "icon": "03d"
+      },
+      {
+        "time": "16:00",
+        "temp": 17,
+        "icon": "01d"
+      },
+      {
+        "time": "20:00",
+        "temp": 16,
+        "icon": "13d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 12,
+        "temp_max": 16,
+        "icon": "02d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 15,
+        "temp_max": 18,
+        "icon": "11d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 12,
+        "temp_max": 18,
+        "icon": "04d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 12,
+        "temp_max": 18,
+        "icon": "04d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 15,
+        "temp_max": 20,
+        "icon": "11d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 14,
+        "temp_max": 17,
+        "icon": "02d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 16,
+        "temp_max": 20,
+        "icon": "10d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Warsaw",
+      "temp": 27,
+      "humidity": 58,
+      "wind": 11,
+      "description": "Humid",
+      "icon": "04d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 27,
+        "icon": "09d"
+      },
+      {
+        "time": "4:00",
+        "temp": 27,
+        "icon": "01d"
+      },
+      {
+        "time": "8:00",
+        "temp": 28,
+        "icon": "03d"
+      },
+      {
+        "time": "12:00",
+        "temp": 27,
+        "icon": "50d"
+      },
+      {
+        "time": "16:00",
+        "temp": 27,
+        "icon": "09d"
+      },
+      {
+        "time": "20:00",
+        "temp": 26,
+        "icon": "10d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 26,
+        "temp_max": 27,
+        "icon": "03d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 23,
+        "temp_max": 28,
+        "icon": "01d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 26,
+        "temp_max": 28,
+        "icon": "11d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 25,
+        "temp_max": 31,
+        "icon": "04d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 24,
+        "temp_max": 30,
+        "icon": "04d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 23,
+        "temp_max": 28,
+        "icon": "50d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 27,
+        "temp_max": 30,
+        "icon": "02d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Dublin",
+      "temp": 16,
+      "humidity": 30,
+      "wind": 6,
+      "description": "Sunny",
+      "icon": "02d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 16,
+        "icon": "01d"
+      },
+      {
+        "time": "4:00",
+        "temp": 17,
+        "icon": "13d"
+      },
+      {
+        "time": "8:00",
+        "temp": 15,
+        "icon": "10d"
+      },
+      {
+        "time": "12:00",
+        "temp": 16,
+        "icon": "13d"
+      },
+      {
+        "time": "16:00",
+        "temp": 15,
+        "icon": "04d"
+      },
+      {
+        "time": "20:00",
+        "temp": 15,
+        "icon": "11d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 12,
+        "temp_max": 16,
+        "icon": "03d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 12,
+        "temp_max": 18,
+        "icon": "11d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 12,
+        "temp_max": 17,
+        "icon": "11d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 16,
+        "temp_max": 20,
+        "icon": "11d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 13,
+        "temp_max": 16,
+        "icon": "09d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 16,
+        "temp_max": 20,
+        "icon": "04d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 14,
+        "temp_max": 18,
+        "icon": "50d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Oslo",
+      "temp": 28,
+      "humidity": 74,
+      "wind": 2,
+      "description": "Rainy",
+      "icon": "04d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 27,
+        "icon": "04d"
+      },
+      {
+        "time": "4:00",
+        "temp": 28,
+        "icon": "03d"
+      },
+      {
+        "time": "8:00",
+        "temp": 28,
+        "icon": "11d"
+      },
+      {
+        "time": "12:00",
+        "temp": 27,
+        "icon": "11d"
+      },
+      {
+        "time": "16:00",
+        "temp": 28,
+        "icon": "03d"
+      },
+      {
+        "time": "20:00",
+        "temp": 29,
+        "icon": "13d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 24,
+        "temp_max": 28,
+        "icon": "01d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 28,
+        "temp_max": 32,
+        "icon": "03d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 26,
+        "temp_max": 31,
+        "icon": "50d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 26,
+        "temp_max": 29,
+        "icon": "50d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 28,
+        "temp_max": 30,
+        "icon": "02d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 24,
+        "temp_max": 28,
+        "icon": "50d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 24,
+        "temp_max": 31,
+        "icon": "04d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Stockholm",
+      "temp": 26,
+      "humidity": 30,
+      "wind": 11,
+      "description": "Partly Cloudy",
+      "icon": "09d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 26,
+        "icon": "11d"
+      },
+      {
+        "time": "4:00",
+        "temp": 26,
+        "icon": "09d"
+      },
+      {
+        "time": "8:00",
+        "temp": 27,
+        "icon": "01d"
+      },
+      {
+        "time": "12:00",
+        "temp": 25,
+        "icon": "10d"
+      },
+      {
+        "time": "16:00",
+        "temp": 27,
+        "icon": "01d"
+      },
+      {
+        "time": "20:00",
+        "temp": 26,
+        "icon": "11d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 26,
+        "temp_max": 30,
+        "icon": "01d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 25,
+        "temp_max": 29,
+        "icon": "04d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 26,
+        "temp_max": 30,
+        "icon": "13d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 22,
+        "temp_max": 30,
+        "icon": "04d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 24,
+        "temp_max": 26,
+        "icon": "04d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 22,
+        "temp_max": 27,
+        "icon": "11d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 26,
+        "temp_max": 28,
+        "icon": "04d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Helsinki",
+      "temp": 14,
+      "humidity": 53,
+      "wind": 4,
+      "description": "Cloudy",
+      "icon": "13d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 13,
+        "icon": "10d"
+      },
+      {
+        "time": "4:00",
+        "temp": 14,
+        "icon": "09d"
+      },
+      {
+        "time": "8:00",
+        "temp": 14,
+        "icon": "01d"
+      },
+      {
+        "time": "12:00",
+        "temp": 13,
+        "icon": "04d"
+      },
+      {
+        "time": "16:00",
+        "temp": 13,
+        "icon": "03d"
+      },
+      {
+        "time": "20:00",
+        "temp": 13,
+        "icon": "10d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 10,
+        "temp_max": 14,
+        "icon": "09d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 11,
+        "temp_max": 14,
+        "icon": "02d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 13,
+        "temp_max": 16,
+        "icon": "11d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 13,
+        "temp_max": 16,
+        "icon": "11d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 13,
+        "temp_max": 14,
+        "icon": "01d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 14,
+        "temp_max": 16,
+        "icon": "02d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 12,
+        "temp_max": 18,
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Lisbon",
+      "temp": 22,
+      "humidity": 78,
+      "wind": 5,
+      "description": "Humid",
+      "icon": "02d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 22,
+        "icon": "03d"
+      },
+      {
+        "time": "4:00",
+        "temp": 21,
+        "icon": "01d"
+      },
+      {
+        "time": "8:00",
+        "temp": 23,
+        "icon": "03d"
+      },
+      {
+        "time": "12:00",
+        "temp": 23,
+        "icon": "03d"
+      },
+      {
+        "time": "16:00",
+        "temp": 21,
+        "icon": "09d"
+      },
+      {
+        "time": "20:00",
+        "temp": 21,
+        "icon": "02d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 20,
+        "temp_max": 26,
+        "icon": "10d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 20,
+        "temp_max": 22,
+        "icon": "04d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 19,
+        "temp_max": 23,
+        "icon": "50d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 19,
+        "temp_max": 26,
+        "icon": "01d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 20,
+        "temp_max": 25,
+        "icon": "50d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 20,
+        "temp_max": 24,
+        "icon": "02d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 21,
+        "temp_max": 24,
+        "icon": "02d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Athens",
+      "temp": 28,
+      "humidity": 38,
+      "wind": 5,
+      "description": "Cloudy",
+      "icon": "01d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 27,
+        "icon": "11d"
+      },
+      {
+        "time": "4:00",
+        "temp": 29,
+        "icon": "50d"
+      },
+      {
+        "time": "8:00",
+        "temp": 28,
+        "icon": "04d"
+      },
+      {
+        "time": "12:00",
+        "temp": 29,
+        "icon": "03d"
+      },
+      {
+        "time": "16:00",
+        "temp": 28,
+        "icon": "11d"
+      },
+      {
+        "time": "20:00",
+        "temp": 27,
+        "icon": "01d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 27,
+        "temp_max": 28,
+        "icon": "01d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 24,
+        "temp_max": 32,
+        "icon": "11d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 26,
+        "temp_max": 29,
+        "icon": "11d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 26,
+        "temp_max": 28,
+        "icon": "02d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 28,
+        "temp_max": 29,
+        "icon": "50d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 25,
+        "temp_max": 31,
+        "icon": "01d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 27,
+        "temp_max": 31,
+        "icon": "09d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Zurich",
+      "temp": 22,
+      "humidity": 24,
+      "wind": 8,
+      "description": "Rainy",
+      "icon": "02d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 21,
+        "icon": "10d"
+      },
+      {
+        "time": "4:00",
+        "temp": 22,
+        "icon": "11d"
+      },
+      {
+        "time": "8:00",
+        "temp": 22,
+        "icon": "11d"
+      },
+      {
+        "time": "12:00",
+        "temp": 21,
+        "icon": "50d"
+      },
+      {
+        "time": "16:00",
+        "temp": 23,
+        "icon": "11d"
+      },
+      {
+        "time": "20:00",
+        "temp": 22,
+        "icon": "13d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 20,
+        "temp_max": 26,
+        "icon": "03d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 18,
+        "temp_max": 25,
+        "icon": "50d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 20,
+        "temp_max": 26,
+        "icon": "11d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 22,
+        "temp_max": 24,
+        "icon": "04d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 20,
+        "temp_max": 23,
+        "icon": "10d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 18,
+        "temp_max": 26,
+        "icon": "50d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 19,
+        "temp_max": 22,
+        "icon": "03d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Copenhagen",
+      "temp": 19,
+      "humidity": 52,
+      "wind": 15,
+      "description": "Partly Cloudy",
+      "icon": "03d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 18,
+        "icon": "09d"
+      },
+      {
+        "time": "4:00",
+        "temp": 18,
+        "icon": "04d"
+      },
+      {
+        "time": "8:00",
+        "temp": 18,
+        "icon": "01d"
+      },
+      {
+        "time": "12:00",
+        "temp": 18,
+        "icon": "09d"
+      },
+      {
+        "time": "16:00",
+        "temp": 20,
+        "icon": "02d"
+      },
+      {
+        "time": "20:00",
+        "temp": 19,
+        "icon": "02d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 17,
+        "temp_max": 19,
+        "icon": "13d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 15,
+        "temp_max": 20,
+        "icon": "11d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 18,
+        "temp_max": 23,
+        "icon": "10d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 17,
+        "temp_max": 23,
+        "icon": "03d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 18,
+        "temp_max": 22,
+        "icon": "09d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 18,
+        "temp_max": 19,
+        "icon": "04d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 19,
+        "temp_max": 22,
+        "icon": "03d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Brussels",
+      "temp": 22,
+      "humidity": 46,
+      "wind": 6,
+      "description": "Humid",
+      "icon": "50d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 22,
+        "icon": "13d"
+      },
+      {
+        "time": "4:00",
+        "temp": 23,
+        "icon": "01d"
+      },
+      {
+        "time": "8:00",
+        "temp": 22,
+        "icon": "09d"
+      },
+      {
+        "time": "12:00",
+        "temp": 23,
+        "icon": "01d"
+      },
+      {
+        "time": "16:00",
+        "temp": 22,
+        "icon": "13d"
+      },
+      {
+        "time": "20:00",
+        "temp": 23,
+        "icon": "02d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 18,
+        "temp_max": 23,
+        "icon": "50d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 20,
+        "temp_max": 26,
+        "icon": "04d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 18,
+        "temp_max": 24,
+        "icon": "13d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 18,
+        "temp_max": 22,
+        "icon": "02d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 18,
+        "temp_max": 24,
+        "icon": "04d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 19,
+        "temp_max": 23,
+        "icon": "02d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 18,
+        "temp_max": 22,
+        "icon": "09d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Edinburgh",
+      "temp": 18,
+      "humidity": 51,
+      "wind": 15,
+      "description": "Cloudy",
+      "icon": "13d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 18,
+        "icon": "04d"
+      },
+      {
+        "time": "4:00",
+        "temp": 17,
+        "icon": "03d"
+      },
+      {
+        "time": "8:00",
+        "temp": 18,
+        "icon": "10d"
+      },
+      {
+        "time": "12:00",
+        "temp": 17,
+        "icon": "50d"
+      },
+      {
+        "time": "16:00",
+        "temp": 17,
+        "icon": "02d"
+      },
+      {
+        "time": "20:00",
+        "temp": 19,
+        "icon": "11d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 18,
+        "temp_max": 20,
+        "icon": "50d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 15,
+        "temp_max": 20,
+        "icon": "09d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 15,
+        "temp_max": 21,
+        "icon": "13d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 17,
+        "temp_max": 21,
+        "icon": "03d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 17,
+        "temp_max": 22,
+        "icon": "04d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 16,
+        "temp_max": 19,
+        "icon": "03d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 14,
+        "temp_max": 22,
+        "icon": "04d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Montreal",
+      "temp": 27,
+      "humidity": 64,
+      "wind": 11,
+      "description": "Cloudy",
+      "icon": "02d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 26,
+        "icon": "09d"
+      },
+      {
+        "time": "4:00",
+        "temp": 26,
+        "icon": "10d"
+      },
+      {
+        "time": "8:00",
+        "temp": 27,
+        "icon": "02d"
+      },
+      {
+        "time": "12:00",
+        "temp": 26,
+        "icon": "11d"
+      },
+      {
+        "time": "16:00",
+        "temp": 27,
+        "icon": "01d"
+      },
+      {
+        "time": "20:00",
+        "temp": 26,
+        "icon": "09d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 27,
+        "temp_max": 27,
+        "icon": "03d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 27,
+        "temp_max": 27,
+        "icon": "13d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 23,
+        "temp_max": 30,
+        "icon": "11d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 27,
+        "temp_max": 31,
+        "icon": "10d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 25,
+        "temp_max": 30,
+        "icon": "01d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 24,
+        "temp_max": 29,
+        "icon": "13d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 26,
+        "temp_max": 27,
+        "icon": "03d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Vancouver",
+      "temp": 27,
+      "humidity": 20,
+      "wind": 9,
+      "description": "Sunny",
+      "icon": "02d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 27,
+        "icon": "03d"
+      },
+      {
+        "time": "4:00",
+        "temp": 26,
+        "icon": "50d"
+      },
+      {
+        "time": "8:00",
+        "temp": 27,
+        "icon": "11d"
+      },
+      {
+        "time": "12:00",
+        "temp": 27,
+        "icon": "11d"
+      },
+      {
+        "time": "16:00",
+        "temp": 28,
+        "icon": "13d"
+      },
+      {
+        "time": "20:00",
+        "temp": 26,
+        "icon": "09d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 23,
+        "temp_max": 28,
+        "icon": "10d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 24,
+        "temp_max": 29,
+        "icon": "04d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 23,
+        "temp_max": 28,
+        "icon": "50d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 26,
+        "temp_max": 28,
+        "icon": "11d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 24,
+        "temp_max": 30,
+        "icon": "09d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 27,
+        "temp_max": 31,
+        "icon": "11d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 26,
+        "temp_max": 31,
+        "icon": "09d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Melbourne",
+      "temp": 13,
+      "humidity": 35,
+      "wind": 3,
+      "description": "Sunny",
+      "icon": "10d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 13,
+        "icon": "03d"
+      },
+      {
+        "time": "4:00",
+        "temp": 13,
+        "icon": "04d"
+      },
+      {
+        "time": "8:00",
+        "temp": 14,
+        "icon": "03d"
+      },
+      {
+        "time": "12:00",
+        "temp": 14,
+        "icon": "11d"
+      },
+      {
+        "time": "16:00",
+        "temp": 14,
+        "icon": "03d"
+      },
+      {
+        "time": "20:00",
+        "temp": 14,
+        "icon": "01d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 10,
+        "temp_max": 15,
+        "icon": "09d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 10,
+        "temp_max": 17,
+        "icon": "04d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 13,
+        "temp_max": 13,
+        "icon": "01d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 10,
+        "temp_max": 17,
+        "icon": "03d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 10,
+        "temp_max": 13,
+        "icon": "13d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 10,
+        "temp_max": 15,
+        "icon": "03d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 10,
+        "temp_max": 17,
+        "icon": "50d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Auckland",
+      "temp": 17,
+      "humidity": 45,
+      "wind": 10,
+      "description": "Rainy",
+      "icon": "02d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 17,
+        "icon": "10d"
+      },
+      {
+        "time": "4:00",
+        "temp": 17,
+        "icon": "13d"
+      },
+      {
+        "time": "8:00",
+        "temp": 16,
+        "icon": "13d"
+      },
+      {
+        "time": "12:00",
+        "temp": 17,
+        "icon": "10d"
+      },
+      {
+        "time": "16:00",
+        "temp": 16,
+        "icon": "01d"
+      },
+      {
+        "time": "20:00",
+        "temp": 16,
+        "icon": "50d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 14,
+        "temp_max": 17,
+        "icon": "03d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 14,
+        "temp_max": 21,
+        "icon": "09d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 14,
+        "temp_max": 18,
+        "icon": "10d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 13,
+        "temp_max": 19,
+        "icon": "11d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 15,
+        "temp_max": 17,
+        "icon": "50d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 13,
+        "temp_max": 20,
+        "icon": "13d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 14,
+        "temp_max": 19,
+        "icon": "11d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Bangalore",
+      "temp": 21,
+      "humidity": 59,
+      "wind": 15,
+      "description": "Partly Cloudy",
+      "icon": "09d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 21,
+        "icon": "11d"
+      },
+      {
+        "time": "4:00",
+        "temp": 21,
+        "icon": "03d"
+      },
+      {
+        "time": "8:00",
+        "temp": 21,
+        "icon": "01d"
+      },
+      {
+        "time": "12:00",
+        "temp": 22,
+        "icon": "02d"
+      },
+      {
+        "time": "16:00",
+        "temp": 22,
+        "icon": "11d"
+      },
+      {
+        "time": "20:00",
+        "temp": 20,
+        "icon": "09d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 17,
+        "temp_max": 22,
+        "icon": "11d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 20,
+        "temp_max": 24,
+        "icon": "10d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 17,
+        "temp_max": 22,
+        "icon": "02d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 17,
+        "temp_max": 25,
+        "icon": "02d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 17,
+        "temp_max": 23,
+        "icon": "02d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 18,
+        "temp_max": 24,
+        "icon": "01d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 17,
+        "temp_max": 24,
+        "icon": "11d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Chennai",
+      "temp": 28,
+      "humidity": 72,
+      "wind": 14,
+      "description": "Cloudy",
+      "icon": "04d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 28,
+        "icon": "02d"
+      },
+      {
+        "time": "4:00",
+        "temp": 29,
+        "icon": "04d"
+      },
+      {
+        "time": "8:00",
+        "temp": 27,
+        "icon": "04d"
+      },
+      {
+        "time": "12:00",
+        "temp": 29,
+        "icon": "03d"
+      },
+      {
+        "time": "16:00",
+        "temp": 29,
+        "icon": "09d"
+      },
+      {
+        "time": "20:00",
+        "temp": 28,
+        "icon": "10d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 25,
+        "temp_max": 29,
+        "icon": "13d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 28,
+        "temp_max": 28,
+        "icon": "04d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 27,
+        "temp_max": 30,
+        "icon": "11d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 26,
+        "temp_max": 30,
+        "icon": "02d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 27,
+        "temp_max": 28,
+        "icon": "50d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 25,
+        "temp_max": 31,
+        "icon": "09d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 27,
+        "temp_max": 31,
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Hyderabad",
+      "temp": 19,
+      "humidity": 21,
+      "wind": 14,
+      "description": "Humid",
+      "icon": "11d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 20,
+        "icon": "09d"
+      },
+      {
+        "time": "4:00",
+        "temp": 20,
+        "icon": "01d"
+      },
+      {
+        "time": "8:00",
+        "temp": 20,
+        "icon": "09d"
+      },
+      {
+        "time": "12:00",
+        "temp": 20,
+        "icon": "50d"
+      },
+      {
+        "time": "16:00",
+        "temp": 20,
+        "icon": "01d"
+      },
+      {
+        "time": "20:00",
+        "temp": 18,
+        "icon": "01d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 19,
+        "temp_max": 19,
+        "icon": "03d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 16,
+        "temp_max": 21,
+        "icon": "50d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 18,
+        "temp_max": 21,
+        "icon": "04d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 18,
+        "temp_max": 20,
+        "icon": "50d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 19,
+        "temp_max": 21,
+        "icon": "50d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 15,
+        "temp_max": 21,
+        "icon": "02d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 19,
+        "temp_max": 21,
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "current": {
+      "city": "Colombo",
+      "temp": 26,
+      "humidity": 42,
+      "wind": 7,
+      "description": "Partly Cloudy",
+      "icon": "04d"
+    },
+    "hourly": [
+      {
+        "time": "0:00",
+        "temp": 25,
+        "icon": "11d"
+      },
+      {
+        "time": "4:00",
+        "temp": 27,
+        "icon": "09d"
+      },
+      {
+        "time": "8:00",
+        "temp": 27,
+        "icon": "04d"
+      },
+      {
+        "time": "12:00",
+        "temp": 26,
+        "icon": "01d"
+      },
+      {
+        "time": "16:00",
+        "temp": 27,
+        "icon": "10d"
+      },
+      {
+        "time": "20:00",
+        "temp": 26,
+        "icon": "50d"
+      }
+    ],
+    "weekly": [
+      {
+        "day": "Monday",
+        "temp_min": 22,
+        "temp_max": 26,
+        "icon": "09d"
+      },
+      {
+        "day": "Tuesday",
+        "temp_min": 22,
+        "temp_max": 26,
+        "icon": "04d"
+      },
+      {
+        "day": "Wednesday",
+        "temp_min": 22,
+        "temp_max": 28,
+        "icon": "50d"
+      },
+      {
+        "day": "Thursday",
+        "temp_min": 22,
+        "temp_max": 27,
+        "icon": "10d"
+      },
+      {
+        "day": "Friday",
+        "temp_min": 24,
+        "temp_max": 28,
+        "icon": "01d"
+      },
+      {
+        "day": "Saturday",
+        "temp_min": 25,
+        "temp_max": 30,
+        "icon": "09d"
+      },
+      {
+        "day": "Sunday",
+        "temp_min": 24,
+        "temp_max": 28,
+        "icon": "13d"
+      }
+    ]
+  }
+]

@@ -1,0 +1,447 @@
+/* =====================
+   RESET
+===================== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* =====================
+   BODY + MODES
+===================== */
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: background 0.3s, color 0.3s;
+}
+
+body.dark-mode {
+  background: linear-gradient(135deg, #2c003e, #4b007a);
+  color: #f0f0f0;
+}
+
+body.light-mode {
+  background: linear-gradient(135deg, #87ceeb, #f0f8ff);
+  color: #333;
+}
+
+/* =====================
+   HEADER
+===================== */
+header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 25px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-bottom: 2px solid #ff1493;
+  backdrop-filter: blur(6px);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+header .logo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+header .logo i {
+  color: #ffcc00;
+  font-size: 1.4rem;
+}
+
+/* Dark mode button */
+header nav button {
+  padding: 6px 12px;
+  border-radius: 6px;
+  background-color: #6a0dad;
+  color: white;
+  border: none;
+  font-size: 0.9rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: background 0.3s;
+}
+
+header nav button:hover {
+  background-color: #8a2be2;
+}
+
+/* =====================
+   MAIN
+===================== */
+main {
+  width: 90%;
+  max-width: 650px;
+  margin: 25px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* =====================
+   CARD COMMON
+===================== */
+.card {
+  background-color: rgba(0,0,0,0.6);
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  transition: background 0.3s;
+}
+
+body.light-mode .card {
+  background-color: rgba(255,255,255,0.85);
+}
+
+/* =====================
+   SEARCH SECTION
+===================== */
+#search-section {
+  display: flex;
+  gap: 10px;
+}
+
+#search-section input {
+  flex: 1;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  font-size: 1rem;
+}
+
+#search-section button {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background-color: #ff69b4;
+  color: white;
+  border-radius: 10px;
+  padding: 10px 16px;
+  border: none;
+  cursor: pointer;
+}
+
+#search-section button:hover {
+  background-color: #ff1493;
+}
+
+/* =====================
+   FAVORITES
+===================== */
+#favorites-section h3 {
+  font-size: 1.3rem;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #ffd700;
+}
+
+#favoritesList {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 0;
+}
+
+.fav-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background-color: rgba(255, 182, 193, 0.8);
+  padding: 6px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.2s, background 0.2s;
+  font-size: 0.9rem;
+}
+
+.fav-item:hover {
+  transform: scale(1.05);
+  background-color: rgba(255, 182, 193, 1);
+}
+
+.fav-item span {
+  font-weight: 500;
+}
+
+.removeFav {
+  background: transparent;
+  border: none;
+  color: #ff4d4d;
+  cursor: pointer;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+}
+
+/* =====================
+   WEATHER CARD
+===================== */
+#weatherCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+#weatherCard h2 {
+  font-size: 1.8rem;
+  margin-bottom: 4px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+#weatherCard p {
+  margin: 6px 0;
+  font-size: 1.15rem;
+  opacity: 0.95;
+}
+
+/* Weather Icon */
+#weatherIcon {
+  width: 80px;
+  height: 80px;
+  margin: 6px 0 8px;
+  object-fit: contain;
+  filter: drop-shadow(0 4px 8px rgba(0,0,0,0.4));
+  transition: transform 0.3s ease;
+}
+
+#weatherIcon:hover {
+  transform: scale(1.1);
+}
+
+body.light-mode #weatherIcon {
+  filter: drop-shadow(0 4px 8px rgba(0,0,0,0.2));
+}
+
+/* Favorite Button */
+#addFavoriteBtn {
+  margin-top: 15px;
+  padding: 10px 18px;
+  border-radius: 10px;
+  background-color: #00bfff;
+  border: none;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+#addFavoriteBtn:hover {
+  background-color: #1e90ff;
+}
+
+/* =====================
+   FOOTER
+===================== */
+footer {
+  margin-top: auto;
+  padding: 15px;
+  width: 100%;
+  text-align: center;
+  background-color: rgba(0,0,0,0.4);
+  backdrop-filter: blur(8px);
+}
+
+/* =====================
+   ICON GLOBAL FIX
+===================== */
+i {
+  vertical-align: middle;
+}
+
+/* =====================
+   FORECAST SECTIONS
+===================== */
+.forecast-section {
+  background-color: rgba(0,0,0,0.6);
+  padding: 18px 16px;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  transition: background 0.3s;
+}
+
+body.light-mode .forecast-section {
+  background-color: rgba(255,255,255,0.85);
+}
+
+.forecast-section .section-title {
+  font-size: 1.5rem;
+  margin-bottom: 12px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  color: #ffdd57;
+}
+
+/* =====================
+   HOURLY FORECAST
+===================== */
+.hourly-cards {
+  display: flex;
+  overflow-x: auto;
+  gap: 12px;
+  padding-bottom: 6px;
+  scrollbar-width: thin;
+  scrollbar-color: #555 rgba(0,0,0,0.6);
+}
+
+.hourly-cards::-webkit-scrollbar {
+  height: 8px;
+}
+
+.hourly-cards::-webkit-scrollbar-track {
+  background: rgba(0,0,0,0.6);
+  border-radius: 8px;
+}
+
+.hourly-cards::-webkit-scrollbar-thumb {
+  background-color: #555;
+  border-radius: 8px;
+}
+
+.hourly-card {
+  min-width: 80px;
+  background-color: rgba(42,42,64,0.9);
+  border-radius: 12px;
+  text-align: center;
+  padding: 8px 6px;
+  flex-shrink: 0;
+  transition: transform 0.2s, background 0.2s;
+}
+
+.hourly-card:hover {
+  transform: translateY(-4px);
+  background-color: rgba(58,58,90,0.95);
+}
+
+.hourly-card .time {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+.hourly-card .icon {
+  width: 40px;
+  height: 40px;
+  margin-bottom: 4px;
+}
+
+.hourly-card .temp {
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+/* =====================
+   WEEKLY FORECAST
+===================== */
+.weekly-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.weekly-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(42,42,64,0.9);
+  padding: 10px 14px;
+  border-radius: 12px;
+  transition: transform 0.2s, background 0.2s;
+}
+
+.weekly-card:hover {
+  transform: translateX(4px);
+  background-color: rgba(58,58,90,0.95);
+}
+
+.weekly-card .day {
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.weekly-card .temp-range {
+  font-weight: bold;
+  font-size: 0.95rem;
+}
+
+.weekly-card .icon {
+  width: 30px;
+  height: 30px;
+}
+
+/* =====================
+   RESPONSIVE
+===================== */
+@media screen and (max-width: 600px) {
+  .hourly-card {
+    min-width: 70px;
+    padding: 6px 4px;
+  }
+
+  .weekly-card {
+    padding: 8px 10px;
+  }
+
+  .forecast-section .section-title {
+    font-size: 1.3rem;
+  }
+}
+
+
+.btns{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+#unitToggle{
+  background-color: #d35a0f;
+}
+#unitToggle:hover{
+   background-color: #ea7b35;
+}
+
+.theme-sunny {
+  background: linear-gradient(135deg, #fbbf24, #f59e0b);
+  color: #fff;
+}
+.theme-cloudy {
+  background: linear-gradient(135deg, #64748b, #475569);
+  color: #fff;
+}
+.theme-rain {
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  color: #fff;
+}
+
+.theme-snow {
+  background: linear-gradient(135deg, #e5e7eb, #cbd5e1);
+  color: #0f172a;
+}
+
+.theme-fog {
+  background: linear-gradient(135deg, #334155, #1e293b);
+  color: #fff;
+}
+.theme-storm {
+  background: linear-gradient(135deg, #020617, #020617);
+  color: #fff;
+}
+/* .card {
+  background: rgba(255,255,255,0.12);
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
+} */
