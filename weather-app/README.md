@@ -1,12 +1,3 @@
-চমৎকার 🔥
-নিচে আমি **GitHub-ready, clean, professional README.md** দিলাম — যেটা recruiter / reviewer খুলেই বুঝবে এটা **serious full-stack project**।
-
-👉 **Short, crisp, no extra noise**
-👉 Frontend + Backend দুটোই cover করে
-👉 Perfect for GitHub repo
-
----
-
 # 🌦️ Smart Weather Dashboard
 
 A **full-stack weather dashboard application** built using **Vanilla JavaScript** and **Node.js (Express)**.
@@ -167,7 +158,7 @@ http://localhost:5000
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 ZISAN
 
 **Smart Weather Dashboard**
 Built for learning **advanced JavaScript**, **UI state management**, and **API integration**.
